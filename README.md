@@ -51,3 +51,7 @@
 
 </body>
 </html>
+cd путь_к_папке
+git init
+git add .https://img.freepik.com/free-photo/abstract-futuristic-background-with-3d-design_1361-3532.jpg?t=st=1739974518~exp=1739978118~hmac=c3e4bcf65f901624546ff0a093fb998c9c3cac16d9757a1a17166d1484e9f731&w=1380
+git commit -m "Первый коммит"
